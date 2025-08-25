@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.introducao;
+package introducao;
 
 public class Aula01OlaDevDojo {
     // comentario é feito com duas barras;
