@@ -1,6 +1,6 @@
 package javacore.Cexcecao.runtime.test;
 
-import java.io.IOException;
+
 
 public class RuntimeExceptionTest02 {
     public static void main(String[] args) {
